@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quentin1522" alt="quentin1522" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/quentin-dév / @quentindevfr" target="blank"><img src="https://img.shields.io/twitter/follow/quentin-dév / @quentindevfr?logo=twitter&style=for-the-badge" alt="quentin-dév / @quentindevfr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@quentindevfr" target="blank"><img src="https://img.shields.io/twitter/follow/@quentindevfr?logo=twitter&style=for-the-badge" alt="@quentindevfr" /></a> </p>
 
 - 🔭 Je travaille actuellement sur un **gestionnaire et générateur de mot de passe**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/quentin-dév / @quentindevfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quentin-dév / @quentindevfr" height="30" width="40" /></a>
+<a href="https://twitter.com/@quentindevfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@quentindevfr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/quentin horneck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin horneck" height="30" width="40" /></a>
 </p>
 
