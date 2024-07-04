@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur un **gestionnaire et générateur de mot de passe**
 
-- 🌱 J'apprends actuellement **Flutter**
+- 🌱 J'apprends actuellement **PHP**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://quentin1522.github.io/Portfolio/](https://quentin1522.github.io/Portfolio/)
 
