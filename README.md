@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour je suis Quentin Horneck</h1>
 <h3 align="center">J'ai 23 ans, développeur React, j'aimerais apprendre le développement back-end.</h3>
 
-- 🌱 J'apprends actuellement **PHP**
-
 - 👨‍💻 Tous mes projets sont disponibles sur [https://quentin1522.github.io/Portfolio/](https://quentin1522.github.io/Portfolio/)
 
 - 📫 Comment me joindre **horneck.quentin@gmail.com**
